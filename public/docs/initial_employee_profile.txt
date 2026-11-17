@@ -1,0 +1,9 @@
+Data Only
+
+Name: Alex Rivera
+Employee ID: -4821
+Email: alex.rivera@locoto.mx
+Phone: +1 202-555-0147
+Address: 100 Test Avenue
+Access Key: QA-7429
+Diagnostic ID: SYNTH-2030
